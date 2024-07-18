@@ -1,2 +1,2 @@
 # Walls
-Collection of Wallpapers\
+Collection of Wallpapers
